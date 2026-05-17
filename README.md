@@ -1,5 +1,16 @@
 # README
 
+## Capstone Deliverables
+
+- **Architecture Blueprint** — `docs/Architecture_Blueprint.md`
+- **Executive Summary** — `docs/Executive_Summary.md`
+- **Self-Review** — `docs/Self_Review.md`
+- **Test Suite** — `travelmate/tests`
+- **Video Demo** — https://youtu.be/q9CJzIz-S7c
+- **Application Entry Point** — `travelmate/app/streamlit_app.py`
+- **Requirements File** — `requirements.txt`
+- **Environment Example** — `.env.example`
+
 # TravelMate — Multi-Agent Family-Friendly Travel Planner
 
 TravelMate is an AI-powered multi-agent travel planning assistant that creates realistic family-friendly itineraries using Retrieval-Augmented Generation (RAG), live weather integration through MCP, and rule-based itinerary validation.
@@ -297,7 +308,7 @@ venv\\Scripts\\activate
 ### Linux / macOS
 
 ```
-python3-m venv venv
+python3 -m venv venv
 source venv/bin/activate
 ```
 
