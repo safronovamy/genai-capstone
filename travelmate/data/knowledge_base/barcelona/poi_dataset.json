@@ -1,0 +1,1253 @@
+[
+  {
+    "name": "Barcelona Aquarium",
+    "description": "Large indoor aquarium with marine exhibits suitable for families and rainy days",
+    "city": "Barcelona",
+    "type": "aquarium",
+    "area": "Port Vell",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "rainy_day",
+      "kids"
+    ],
+    "tags": [
+      "indoor",
+      "animals",
+      "kids"
+    ],
+    "lat": 41.3764,
+    "lon": 2.184
+  },
+  {
+    "name": "Park Güell",
+    "description": "Famous park with Gaudí architecture, scenic viewpoints, and open walking areas",
+    "city": "Barcelona",
+    "type": "park",
+    "area": "Gràcia",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 10,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "walks",
+      "culture",
+      "photography"
+    ],
+    "tags": [
+      "park",
+      "outdoor",
+      "walk"
+    ],
+    "lat": 41.4145,
+    "lon": 2.1527
+  },
+  {
+    "name": "CosmoCaixa Science Museum",
+    "description": "Interactive science museum suitable for children and families",
+    "city": "Barcelona",
+    "type": "museum",
+    "area": "Sant Gervasi",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "low",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "education",
+      "rainy_day"
+    ],
+    "tags": [
+      "indoor",
+      "museum",
+      "kids"
+    ],
+    "lat": 41.412,
+    "lon": 2.1317
+  },
+  {
+    "name": "Barcelona Zoo",
+    "description": "Family-friendly zoo with shaded walking routes and animal exhibits",
+    "city": "Barcelona",
+    "type": "zoo",
+    "area": "Ciutadella",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 3,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "kids",
+      "walks"
+    ],
+    "tags": [
+      "animals",
+      "kids",
+      "outdoor"
+    ],
+    "lat": 41.3874,
+    "lon": 2.187
+  },
+  {
+    "name": "Barceloneta Beach",
+    "description": "Popular beach area suitable for relaxed walking and family-friendly outdoor time",
+    "city": "Barcelona",
+    "type": "beach",
+    "area": "Barceloneta",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "free",
+    "priority_score": 9,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "slow_travel",
+      "relax"
+    ],
+    "tags": [
+      "beach",
+      "walk",
+      "outdoor"
+    ],
+    "lat": 41.3765,
+    "lon": 2.1925
+  },
+  {
+    "name": "Tibidabo Amusement Park",
+    "description": "Historic hilltop amusement park with rides and panoramic city views",
+    "city": "Barcelona",
+    "type": "amusement park",
+    "area": "Tibidabo",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 3,
+    "budget_level": "high",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "kids",
+      "active_travel"
+    ],
+    "tags": [
+      "rides",
+      "kids",
+      "views"
+    ],
+    "lat": 41.4225,
+    "lon": 2.118
+  },
+  {
+    "name": "Montjuïc",
+    "description": "Large hill area with gardens, viewpoints, museums, and walking paths",
+    "city": "Barcelona",
+    "type": "park",
+    "area": "Montjuïc",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 2.5,
+    "budget_level": "free",
+    "priority_score": 9,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "walks",
+      "photography",
+      "culture"
+    ],
+    "tags": [
+      "park",
+      "views",
+      "walk"
+    ],
+    "lat": 41.3636,
+    "lon": 2.1654
+  },
+  {
+    "name": "Chocolate Museum Barcelona",
+    "description": "Interactive chocolate museum suitable for children and rainy weather itineraries",
+    "city": "Barcelona",
+    "type": "museum",
+    "area": "El Born",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 6,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "kids",
+      "rainy_day"
+    ],
+    "tags": [
+      "museum",
+      "food",
+      "indoor"
+    ],
+    "lat": 41.3878,
+    "lon": 2.1814
+  },
+  {
+    "name": "Ciutadella Park",
+    "description": "Large city park with playgrounds, fountains, and walking paths",
+    "city": "Barcelona",
+    "type": "park",
+    "area": "Ciutat Vella",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "free",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "walks",
+      "slow_travel"
+    ],
+    "tags": [
+      "park",
+      "kids",
+      "outdoor"
+    ],
+    "lat": 41.3888,
+    "lon": 2.1876
+  },
+  {
+    "name": "Magic Fountain of Montjuïc",
+    "description": "Evening fountain show with lights and music",
+    "city": "Barcelona",
+    "type": "landmark",
+    "area": "Montjuïc",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "free",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "evening",
+      "photography"
+    ],
+    "tags": [
+      "fountain",
+      "evening",
+      "outdoor"
+    ],
+    "lat": 41.3712,
+    "lon": 2.1519
+  },
+  {
+    "name": "Sagrada Família",
+    "description": "Iconic basilica designed by Antoni Gaudí and one of Barcelona's main landmarks",
+    "city": "Barcelona",
+    "type": "landmark",
+    "area": "Eixample",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 2,
+    "budget_level": "high",
+    "priority_score": 10,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "culture",
+      "architecture",
+      "photography"
+    ],
+    "tags": [
+      "architecture",
+      "historic",
+      "indoor"
+    ],
+    "lat": 41.4036,
+    "lon": 2.1744
+  },
+  {
+    "name": "Boqueria Market",
+    "description": "Historic food market with local products and casual dining options",
+    "city": "Barcelona",
+    "type": "market",
+    "area": "La Rambla",
+    "indoor": true,
+    "family_friendly": false,
+    "stroller_friendly": false,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "food",
+      "adult_travel",
+      "culture"
+    ],
+    "tags": [
+      "food",
+      "market",
+      "indoor"
+    ],
+    "lat": 41.3822,
+    "lon": 2.1722
+  },
+  {
+    "name": "Bunkers del Carmel",
+    "description": "Popular panoramic viewpoint over Barcelona",
+    "city": "Barcelona",
+    "type": "viewpoint",
+    "area": "Carmel",
+    "indoor": false,
+    "family_friendly": false,
+    "stroller_friendly": false,
+    "duration_hours": 1.5,
+    "budget_level": "free",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "photography",
+      "active_travel",
+      "adult_travel"
+    ],
+    "tags": [
+      "views",
+      "walk",
+      "outdoor"
+    ],
+    "lat": 41.418,
+    "lon": 2.1527
+  },
+  {
+    "name": "Barcelona Cathedral",
+    "description": "Historic Gothic cathedral in the old city, suitable for a short cultural stop and rainy-day itinerary.",
+    "lat": 41.3839,
+    "lon": 2.1763,
+    "city": "Barcelona",
+    "type": "cathedral",
+    "area": "Gothic Quarter",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "culture",
+      "history",
+      "architecture",
+      "rainy_day"
+    ],
+    "tags": [
+      "cathedral",
+      "gothic",
+      "historic",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Palau Güell",
+    "description": "Early Gaudí palace near La Rambla with expressive interiors and rooftop details.",
+    "lat": 41.3793,
+    "lon": 2.174,
+    "city": "Barcelona",
+    "type": "palace",
+    "area": "El Raval",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "culture",
+      "architecture",
+      "rainy_day"
+    ],
+    "tags": [
+      "gaudi",
+      "architecture",
+      "indoor",
+      "historic"
+    ]
+  },
+  {
+    "name": "Casa Batlló",
+    "description": "Iconic Gaudí house on Passeig de Gràcia with colorful façade and immersive interiors.",
+    "lat": 41.3917,
+    "lon": 2.1649,
+    "city": "Barcelona",
+    "type": "landmark",
+    "area": "Eixample",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1.5,
+    "budget_level": "high",
+    "priority_score": 10,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "culture",
+      "architecture",
+      "photography",
+      "rainy_day"
+    ],
+    "tags": [
+      "gaudi",
+      "architecture",
+      "indoor",
+      "landmark"
+    ]
+  },
+  {
+    "name": "Casa Milà (La Pedrera)",
+    "description": "UNESCO-listed Gaudí building with sculptural roof terrace and museum spaces.",
+    "lat": 41.3954,
+    "lon": 2.1619,
+    "city": "Barcelona",
+    "type": "landmark",
+    "area": "Eixample",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1.5,
+    "budget_level": "high",
+    "priority_score": 9,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "culture",
+      "architecture",
+      "photography"
+    ],
+    "tags": [
+      "gaudi",
+      "architecture",
+      "indoor",
+      "rooftop"
+    ]
+  },
+  {
+    "name": "Casa Vicens",
+    "description": "First major house designed by Gaudí, known for colorful ceramic details and early modernist style.",
+    "lat": 41.4036,
+    "lon": 2.1508,
+    "city": "Barcelona",
+    "type": "museum",
+    "area": "Gràcia",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "culture",
+      "architecture",
+      "rainy_day"
+    ],
+    "tags": [
+      "gaudi",
+      "architecture",
+      "museum",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Recinte Modernista de Sant Pau",
+    "description": "Large Art Nouveau hospital complex with pavilions, gardens, and underground passages.",
+    "lat": 41.4135,
+    "lon": 2.1744,
+    "city": "Barcelona",
+    "type": "historic complex",
+    "area": "Sant Pau",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 9,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "architecture",
+      "culture",
+      "slow_travel"
+    ],
+    "tags": [
+      "modernisme",
+      "architecture",
+      "historic",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Picasso Museum Barcelona",
+    "description": "Major museum in medieval buildings focused on Picasso's early work and artistic development.",
+    "lat": 41.3853,
+    "lon": 2.1809,
+    "city": "Barcelona",
+    "type": "museum",
+    "area": "El Born",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 9,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "museum",
+      "art",
+      "picasso",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Joan Miró Foundation",
+    "description": "Art museum on Montjuïc dedicated to Joan Miró and contemporary exhibitions.",
+    "lat": 41.3686,
+    "lon": 2.1592,
+    "city": "Barcelona",
+    "type": "museum",
+    "area": "Montjuïc",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "museum",
+      "art",
+      "miro",
+      "indoor"
+    ]
+  },
+  {
+    "name": "MNAC",
+    "description": "National Art Museum of Catalonia in the Palau Nacional with Catalan art collections and city views.",
+    "lat": 41.3688,
+    "lon": 2.153,
+    "city": "Barcelona",
+    "type": "museum",
+    "area": "Montjuïc",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "culture",
+      "history",
+      "rainy_day"
+    ],
+    "tags": [
+      "museum",
+      "art",
+      "indoor",
+      "montjuic"
+    ]
+  },
+  {
+    "name": "Maritime Museum Barcelona",
+    "description": "Museum in historic shipyards with maritime history, ships, navigation maps, and family-friendly exhibits.",
+    "lat": 41.3755,
+    "lon": 2.1761,
+    "city": "Barcelona",
+    "type": "museum",
+    "area": "Drassanes",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "history",
+      "rainy_day",
+      "education"
+    ],
+    "tags": [
+      "museum",
+      "ships",
+      "history",
+      "indoor"
+    ]
+  },
+  {
+    "name": "MACBA",
+    "description": "Museum of contemporary art in El Raval with major exhibitions and a lively public square.",
+    "lat": 41.383,
+    "lon": 2.1669,
+    "city": "Barcelona",
+    "type": "museum",
+    "area": "El Raval",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "modern_art",
+      "museum",
+      "indoor",
+      "skaters"
+    ]
+  },
+  {
+    "name": "CCCB",
+    "description": "Contemporary culture center near MACBA with exhibitions, debates, festivals, and lectures.",
+    "lat": 41.3833,
+    "lon": 2.1673,
+    "city": "Barcelona",
+    "type": "cultural center",
+    "area": "El Raval",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "low",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "culture",
+      "art",
+      "rainy_day"
+    ],
+    "tags": [
+      "culture",
+      "exhibition",
+      "indoor",
+      "events"
+    ]
+  },
+  {
+    "name": "Moco Museum Barcelona",
+    "description": "Modern and street art museum near the Picasso Museum with immersive digital art rooms.",
+    "lat": 41.3857,
+    "lon": 2.1814,
+    "city": "Barcelona",
+    "type": "museum",
+    "area": "El Born",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "rainy_day",
+      "photography"
+    ],
+    "tags": [
+      "modern_art",
+      "street_art",
+      "museum",
+      "indoor"
+    ]
+  },
+  {
+    "name": "CaixaForum Barcelona",
+    "description": "Cultural center in a former modernist textile factory with exhibitions and family workshops.",
+    "lat": 41.371,
+    "lon": 2.1493,
+    "city": "Barcelona",
+    "type": "cultural center",
+    "area": "Montjuïc",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "low",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "culture",
+      "exhibition",
+      "workshop",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Palo Alto",
+    "description": "Creative space in Poblenou with design studios, exhibitions, and monthly market events.",
+    "lat": 41.4037,
+    "lon": 2.2045,
+    "city": "Barcelona",
+    "type": "cultural space",
+    "area": "Poblenou",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "low",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "culture",
+      "design",
+      "market",
+      "families"
+    ],
+    "tags": [
+      "design",
+      "market",
+      "events",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Poble Espanyol",
+    "description": "Open-air architectural village on Montjuïc with craft spaces, plazas, and cultural events.",
+    "lat": 41.368,
+    "lon": 2.1474,
+    "city": "Barcelona",
+    "type": "open-air museum",
+    "area": "Montjuïc",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "culture",
+      "walks"
+    ],
+    "tags": [
+      "open_air",
+      "culture",
+      "architecture",
+      "family"
+    ]
+  },
+  {
+    "name": "Montjuïc Castle",
+    "description": "Historic fortress on Montjuïc with city and port views, suitable for culture and viewpoint routes.",
+    "lat": 41.3635,
+    "lon": 2.166,
+    "city": "Barcelona",
+    "type": "fortress",
+    "area": "Montjuïc",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "history",
+      "views",
+      "walks"
+    ],
+    "tags": [
+      "fortress",
+      "viewpoint",
+      "history",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Barcelona Botanical Garden",
+    "description": "Botanical garden on Montjuïc with Mediterranean plant collections and open walking paths.",
+    "lat": 41.3619,
+    "lon": 2.1588,
+    "city": "Barcelona",
+    "type": "botanical garden",
+    "area": "Montjuïc",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "low",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "nature",
+      "slow_travel"
+    ],
+    "tags": [
+      "garden",
+      "nature",
+      "plants",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Laberint d'Horta Park",
+    "description": "Historic garden with a maze, quiet picnic areas, and slow-travel atmosphere.",
+    "lat": 41.438,
+    "lon": 2.145,
+    "city": "Barcelona",
+    "type": "park",
+    "area": "Horta",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "low",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "slow_travel",
+      "picnic"
+    ],
+    "tags": [
+      "park",
+      "maze",
+      "garden",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Gabriel García Márquez Library",
+    "description": "Award-winning public library known for architecture, quiet spaces, and family-friendly facilities.",
+    "lat": 41.4156,
+    "lon": 2.1932,
+    "city": "Barcelona",
+    "type": "library",
+    "area": "Sant Martí",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "free",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "rainy_day",
+      "quiet",
+      "culture"
+    ],
+    "tags": [
+      "library",
+      "architecture",
+      "indoor",
+      "quiet"
+    ]
+  },
+  {
+    "name": "Nomad Coffee Lab",
+    "description": "Specialty coffee spot from a well-known Barcelona roaster, useful for a high-quality coffee break.",
+    "lat": 41.3896,
+    "lon": 2.1775,
+    "city": "Barcelona",
+    "type": "cafe",
+    "area": "El Born",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.75,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "coffee",
+      "break",
+      "rainy_day",
+      "slow_travel"
+    ],
+    "tags": [
+      "cafe",
+      "coffee",
+      "specialty",
+      "indoor"
+    ]
+  },
+  {
+    "name": "TosTao Casa Bonay",
+    "description": "Specialty coffee and casual food spot inside Casa Bonay, suitable for breakfast or laptop-friendly break.",
+    "lat": 41.3923,
+    "lon": 2.177,
+    "city": "Barcelona",
+    "type": "cafe",
+    "area": "Eixample",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "coffee",
+      "breakfast",
+      "rainy_day"
+    ],
+    "tags": [
+      "cafe",
+      "coffee",
+      "breakfast",
+      "indoor"
+    ]
+  },
+  {
+    "name": "SlowMov",
+    "description": "Specialty coffee roaster in Gràcia with excellent coffee and pastries.",
+    "lat": 41.3997,
+    "lon": 2.1547,
+    "city": "Barcelona",
+    "type": "cafe",
+    "area": "Gràcia",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.75,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "coffee",
+      "dessert",
+      "rainy_day",
+      "slow_travel"
+    ],
+    "tags": [
+      "cafe",
+      "coffee",
+      "pastry",
+      "indoor"
+    ]
+  },
+  {
+    "name": "La Cherry Coffee Co",
+    "description": "Small specialty coffee place near Sagrada Família with house-roasted coffee.",
+    "lat": 41.4069,
+    "lon": 2.1729,
+    "city": "Barcelona",
+    "type": "cafe",
+    "area": "Sagrada Família",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.5,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "coffee",
+      "short_stop",
+      "rainy_day"
+    ],
+    "tags": [
+      "cafe",
+      "coffee",
+      "indoor",
+      "short_stop"
+    ]
+  },
+  {
+    "name": "Café Cometa",
+    "description": "Scandinavian-style café in Sant Antoni with brunch, juices, and relaxed atmosphere.",
+    "lat": 41.3754,
+    "lon": 2.1624,
+    "city": "Barcelona",
+    "type": "cafe",
+    "area": "Sant Antoni",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "breakfast",
+      "brunch",
+      "coffee",
+      "rainy_day"
+    ],
+    "tags": [
+      "cafe",
+      "brunch",
+      "coffee",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Origo Bakery",
+    "description": "Craft bakery with slow-fermented bread, cardamom buns, and kombucha.",
+    "lat": 41.3777,
+    "lon": 2.164,
+    "city": "Barcelona",
+    "type": "bakery",
+    "area": "Sant Antoni",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.75,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "breakfast",
+      "dessert",
+      "rainy_day",
+      "food"
+    ],
+    "tags": [
+      "bakery",
+      "bread",
+      "pastry",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Funky Bakers",
+    "description": "Playful bakery in El Born with pastries, sandwiches, and drinks for a quick food stop.",
+    "lat": 41.3849,
+    "lon": 2.1816,
+    "city": "Barcelona",
+    "type": "bakery",
+    "area": "El Born",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.5,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "breakfast",
+      "dessert",
+      "short_stop"
+    ],
+    "tags": [
+      "bakery",
+      "pastry",
+      "sandwich",
+      "indoor"
+    ]
+  },
+  {
+    "name": "JonCake",
+    "description": "Dessert spot known for Basque cheesecake, suitable for a short sweet stop in El Born.",
+    "lat": 41.3847,
+    "lon": 2.181,
+    "city": "Barcelona",
+    "type": "dessert",
+    "area": "El Born",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "dessert",
+      "kids",
+      "short_stop",
+      "rainy_day"
+    ],
+    "tags": [
+      "dessert",
+      "cheesecake",
+      "indoor",
+      "food"
+    ]
+  }
+]

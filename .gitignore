@@ -1,0 +1,112 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+
+# Keep example env file
+!.env.example
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Pytest
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Build / Packaging
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# ChromaDB / Vector DB
+# =========================
+chroma/
+chromadb/
+travelmate/data/vector_store/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+
+# =========================
+# MCP temporary/runtime files
+# =========================
+mcp_logs/
+*.pid
+
+# =========================
+# SQLite / local DBs
+# =========================
+*.db
+*.sqlite3
+
+# =========================
+# Cache
+# =========================
+.cache/
+
+# =========================
+# Uploaded/generated media
+# =========================
+*.mp4
+*.mov
+*.avi
+*.wav
+
+# =========================
+# Test artifacts
+# =========================
+test_output/
+reports/
+
+# =========================
+# Keep knowledge base in git
+# =========================
+!travelmate/data/knowledge_base/

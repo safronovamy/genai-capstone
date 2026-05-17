@@ -1,0 +1,1256 @@
+[
+  {
+    "name": "Schönbrunn Zoo",
+    "description": "Historic zoo with spacious outdoor areas and family-friendly walking routes",
+    "city": "Vienna",
+    "type": "zoo",
+    "area": "Schönbrunn",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 3,
+    "budget_level": "medium",
+    "priority_score": 9,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "kids",
+      "slow_travel"
+    ],
+    "tags": [
+      "animals",
+      "kids",
+      "outdoor"
+    ],
+    "lat": 48.1822,
+    "lon": 16.3026
+  },
+  {
+    "name": "Haus des Meeres",
+    "description": "Indoor aquarium and animal center located in a historic tower",
+    "city": "Vienna",
+    "type": "aquarium",
+    "area": "Mariahilf",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "rainy_day",
+      "kids"
+    ],
+    "tags": [
+      "indoor",
+      "animals",
+      "kids"
+    ],
+    "lat": 48.1976,
+    "lon": 16.3526
+  },
+  {
+    "name": "Prater Park",
+    "description": "Large park with playgrounds, amusement rides, and open walking areas",
+    "city": "Vienna",
+    "type": "park",
+    "area": "Leopoldstadt",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "low",
+    "priority_score": 9,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "kids",
+      "walks"
+    ],
+    "tags": [
+      "park",
+      "kids",
+      "outdoor"
+    ],
+    "lat": 48.2167,
+    "lon": 16.3953
+  },
+  {
+    "name": "Schönbrunn Palace Gardens",
+    "description": "Large palace gardens with walking paths, fountains, and scenic viewpoints",
+    "city": "Vienna",
+    "type": "garden",
+    "area": "Schönbrunn",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "free",
+    "priority_score": 10,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "walks",
+      "families",
+      "slow_travel"
+    ],
+    "tags": [
+      "garden",
+      "walk",
+      "historic"
+    ],
+    "lat": 48.1845,
+    "lon": 16.3122
+  },
+  {
+    "name": "Technical Museum Vienna",
+    "description": "Interactive technology museum with exhibits suitable for children and adults",
+    "city": "Vienna",
+    "type": "museum",
+    "area": "Penzing",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "education",
+      "rainy_day"
+    ],
+    "tags": [
+      "museum",
+      "interactive",
+      "indoor"
+    ],
+    "lat": 48.1907,
+    "lon": 16.3177
+  },
+  {
+    "name": "Natural History Museum Vienna",
+    "description": "Large museum with dinosaur exhibits, natural science collections, and historical interiors",
+    "city": "Vienna",
+    "type": "museum",
+    "area": "Innere Stadt",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2.5,
+    "budget_level": "medium",
+    "priority_score": 9,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "education",
+      "culture"
+    ],
+    "tags": [
+      "museum",
+      "history",
+      "dinosaurs",
+      "indoor"
+    ],
+    "lat": 48.2051,
+    "lon": 16.3599
+  },
+  {
+    "name": "Danube Island",
+    "description": "Large riverside recreation area with cycling paths, playgrounds, and picnic areas",
+    "city": "Vienna",
+    "type": "park",
+    "area": "Danube",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "free",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "active_travel",
+      "walks"
+    ],
+    "tags": [
+      "river",
+      "park",
+      "outdoor"
+    ],
+    "lat": 48.231,
+    "lon": 16.41
+  },
+  {
+    "name": "Children's Museum Schönbrunn",
+    "description": "Interactive children's museum focused on imperial life and family-friendly activities",
+    "city": "Vienna",
+    "type": "museum",
+    "area": "Schönbrunn",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "kids",
+      "families",
+      "education"
+    ],
+    "tags": [
+      "museum",
+      "kids",
+      "indoor"
+    ],
+    "lat": 48.1842,
+    "lon": 16.3121
+  },
+  {
+    "name": "Butterfly House Vienna",
+    "description": "Indoor tropical butterfly greenhouse near central Vienna",
+    "city": "Vienna",
+    "type": "attraction",
+    "area": "Innere Stadt",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 6,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "rainy_day",
+      "slow_travel"
+    ],
+    "tags": [
+      "indoor",
+      "nature",
+      "kids"
+    ],
+    "lat": 48.2046,
+    "lon": 16.3667
+  },
+  {
+    "name": "Vienna Giant Ferris Wheel",
+    "description": "Historic Ferris wheel with panoramic city views",
+    "city": "Vienna",
+    "type": "landmark",
+    "area": "Prater",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "photography",
+      "walks"
+    ],
+    "tags": [
+      "views",
+      "landmark",
+      "outdoor"
+    ],
+    "lat": 48.2167,
+    "lon": 16.3958
+  },
+  {
+    "name": "Belvedere Museum",
+    "description": "Art museum with Austrian paintings and palace gardens",
+    "city": "Vienna",
+    "type": "museum",
+    "area": "Landstraße",
+    "indoor": true,
+    "family_friendly": false,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 9,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "culture",
+      "adult_travel",
+      "art"
+    ],
+    "tags": [
+      "museum",
+      "art",
+      "indoor"
+    ],
+    "lat": 48.1912,
+    "lon": 16.3809
+  },
+  {
+    "name": "Cafe Central",
+    "description": "Historic Viennese cafe known for architecture, desserts, and traditional atmosphere",
+    "city": "Vienna",
+    "type": "restaurant",
+    "area": "Innere Stadt",
+    "indoor": true,
+    "family_friendly": false,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "food",
+      "adult_travel",
+      "slow_travel"
+    ],
+    "tags": [
+      "cafe",
+      "food",
+      "historic",
+      "indoor"
+    ],
+    "lat": 48.21,
+    "lon": 16.3653
+  },
+  {
+    "name": "St. Stephen's Cathedral",
+    "description": "Gothic cathedral in Vienna's historic center with towers and city views.",
+    "lat": 48.2085,
+    "lon": 16.3731,
+    "city": "Vienna",
+    "type": "cathedral",
+    "area": "Innere Stadt",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 10,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "culture",
+      "history",
+      "architecture",
+      "rainy_day"
+    ],
+    "tags": [
+      "cathedral",
+      "gothic",
+      "historic",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Hofburg Palace",
+    "description": "Former imperial palace complex with historic rooms and museum exhibitions.",
+    "lat": 48.2065,
+    "lon": 16.3656,
+    "city": "Vienna",
+    "type": "palace",
+    "area": "Innere Stadt",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 9,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "history",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "palace",
+      "imperial",
+      "museum",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Vienna State Opera",
+    "description": "World-famous opera house and architectural landmark in central Vienna.",
+    "lat": 48.2029,
+    "lon": 16.3688,
+    "city": "Vienna",
+    "type": "opera house",
+    "area": "Innere Stadt",
+    "indoor": true,
+    "family_friendly": false,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "high",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "culture",
+      "music",
+      "adult_travel",
+      "rainy_day"
+    ],
+    "tags": [
+      "opera",
+      "music",
+      "architecture",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Karlskirche",
+    "description": "Baroque church on Karlsplatz with impressive architecture and panoramic terrace access.",
+    "lat": 48.1986,
+    "lon": 16.3715,
+    "city": "Vienna",
+    "type": "church",
+    "area": "Karlsplatz",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "architecture",
+      "culture",
+      "views",
+      "rainy_day"
+    ],
+    "tags": [
+      "church",
+      "baroque",
+      "viewpoint",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Austrian National Library",
+    "description": "Historic library with grand halls, frescoes, rare books, and imperial atmosphere.",
+    "lat": 48.2064,
+    "lon": 16.3662,
+    "city": "Vienna",
+    "type": "library",
+    "area": "Innere Stadt",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "culture",
+      "history",
+      "rainy_day",
+      "quiet"
+    ],
+    "tags": [
+      "library",
+      "historic",
+      "indoor",
+      "culture"
+    ]
+  },
+  {
+    "name": "Kunsthistorisches Museum",
+    "description": "Major art museum with masterpieces by Bruegel, Rubens, Vermeer, Rembrandt, and classical antiquities.",
+    "lat": 48.2038,
+    "lon": 16.3618,
+    "city": "Vienna",
+    "type": "museum",
+    "area": "MuseumsQuartier",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2.5,
+    "budget_level": "medium",
+    "priority_score": 10,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "museum",
+      "art",
+      "indoor",
+      "classic"
+    ]
+  },
+  {
+    "name": "MuseumsQuartier Wien",
+    "description": "Large cultural complex with museums, restaurants, public seating, concerts, and creative atmosphere.",
+    "lat": 48.2033,
+    "lon": 16.3583,
+    "city": "Vienna",
+    "type": "cultural quarter",
+    "area": "MuseumsQuartier",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "free",
+    "priority_score": 9,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "culture",
+      "families",
+      "slow_travel",
+      "local_life"
+    ],
+    "tags": [
+      "culture",
+      "public_space",
+      "museum",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "MUMOK",
+    "description": "Museum of modern and contemporary art located in MuseumsQuartier.",
+    "lat": 48.2033,
+    "lon": 16.3577,
+    "city": "Vienna",
+    "type": "museum",
+    "area": "MuseumsQuartier",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "modern_art",
+      "museum",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Leopold Museum",
+    "description": "Museum focused on Viennese modernism with works by Klimt, Schiele, and related design movements.",
+    "lat": 48.2031,
+    "lon": 16.3586,
+    "city": "Vienna",
+    "type": "museum",
+    "area": "MuseumsQuartier",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "museum",
+      "art",
+      "modernism",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Albertina",
+    "description": "Art museum in a historic palace with impressionist, modernist, and temporary exhibitions.",
+    "lat": 48.2045,
+    "lon": 16.368,
+    "city": "Vienna",
+    "type": "museum",
+    "area": "Innere Stadt",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 9,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "museum",
+      "art",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Secession",
+    "description": "Art Nouveau exhibition building with Klimt's Beethoven Frieze and contemporary exhibitions.",
+    "lat": 48.2006,
+    "lon": 16.3656,
+    "city": "Vienna",
+    "type": "museum",
+    "area": "Karlsplatz",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "architecture",
+      "rainy_day"
+    ],
+    "tags": [
+      "art_nouveau",
+      "klimt",
+      "museum",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Hundertwasserhaus",
+    "description": "Colorful residential building designed according to Hundertwasser's organic architectural ideas.",
+    "lat": 48.2073,
+    "lon": 16.394,
+    "city": "Vienna",
+    "type": "architecture",
+    "area": "Landstraße",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.75,
+    "budget_level": "free",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "architecture",
+      "photography",
+      "families"
+    ],
+    "tags": [
+      "architecture",
+      "colorful",
+      "outdoor",
+      "short_stop"
+    ]
+  },
+  {
+    "name": "Kunst Haus Wien",
+    "description": "Hundertwasser museum with permanent collection and temporary contemporary art exhibitions.",
+    "lat": 48.2116,
+    "lon": 16.3934,
+    "city": "Vienna",
+    "type": "museum",
+    "area": "Landstraße",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "architecture",
+      "rainy_day"
+    ],
+    "tags": [
+      "museum",
+      "hundertwasser",
+      "architecture",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Stadtpark",
+    "description": "Central city park with walking paths, greenery, and the famous Johann Strauss monument.",
+    "lat": 48.2042,
+    "lon": 16.3802,
+    "city": "Vienna",
+    "type": "park",
+    "area": "Innere Stadt",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "free",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "walks",
+      "slow_travel"
+    ],
+    "tags": [
+      "park",
+      "walk",
+      "outdoor",
+      "central"
+    ]
+  },
+  {
+    "name": "Volksgarten",
+    "description": "Historic rose garden near Hofburg, suitable for short slow walks in central Vienna.",
+    "lat": 48.207,
+    "lon": 16.361,
+    "city": "Vienna",
+    "type": "garden",
+    "area": "Innere Stadt",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.75,
+    "budget_level": "free",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "walks",
+      "slow_travel",
+      "families"
+    ],
+    "tags": [
+      "garden",
+      "roses",
+      "walk",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Burggarten",
+    "description": "Central imperial garden near Hofburg, useful for a quiet break between museums.",
+    "lat": 48.2045,
+    "lon": 16.365,
+    "city": "Vienna",
+    "type": "garden",
+    "area": "Innere Stadt",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.75,
+    "budget_level": "free",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "slow_travel",
+      "walks"
+    ],
+    "tags": [
+      "garden",
+      "park",
+      "central",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Danube Canal",
+    "description": "Urban riverside walking area with street art, cafés, and relaxed city atmosphere.",
+    "lat": 48.213,
+    "lon": 16.376,
+    "city": "Vienna",
+    "type": "walk",
+    "area": "Leopoldstadt",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "free",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "walks",
+      "street_art",
+      "slow_travel"
+    ],
+    "tags": [
+      "walk",
+      "river",
+      "street_art",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Kahlenberg",
+    "description": "Hill viewpoint with vineyards and panoramic views over Vienna.",
+    "lat": 48.2767,
+    "lon": 16.3358,
+    "city": "Vienna",
+    "type": "viewpoint",
+    "area": "Kahlenberg",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 2,
+    "budget_level": "free",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "views",
+      "walks",
+      "active_travel"
+    ],
+    "tags": [
+      "viewpoint",
+      "vineyards",
+      "outdoor",
+      "walk"
+    ]
+  },
+  {
+    "name": "Naschmarkt",
+    "description": "Colorful food market with restaurants, regional products, street food, and a Saturday flea market.",
+    "lat": 48.1984,
+    "lon": 16.3613,
+    "city": "Vienna",
+    "type": "market",
+    "area": "Wieden",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "food",
+      "local_life",
+      "families"
+    ],
+    "tags": [
+      "market",
+      "food",
+      "local",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Markterei Markthalle",
+    "description": "Slow food market in a former technical building with local farm products and casual eating areas.",
+    "lat": 48.2255,
+    "lon": 16.3576,
+    "city": "Vienna",
+    "type": "market",
+    "area": "Alsergrund",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "food",
+      "local_life",
+      "rainy_day"
+    ],
+    "tags": [
+      "market",
+      "food",
+      "indoor",
+      "local"
+    ]
+  },
+  {
+    "name": "Café Landtmann",
+    "description": "Traditional Viennese café with historic atmosphere and classic coffee-house culture.",
+    "lat": 48.2135,
+    "lon": 16.3611,
+    "city": "Vienna",
+    "type": "cafe",
+    "area": "Innere Stadt",
+    "indoor": true,
+    "family_friendly": false,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "coffee",
+      "culture",
+      "adult_travel",
+      "rainy_day"
+    ],
+    "tags": [
+      "cafe",
+      "historic",
+      "coffee",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Café Sperl",
+    "description": "Classic Viennese coffee house near Naschmarkt with traditional interior and relaxed atmosphere.",
+    "lat": 48.1998,
+    "lon": 16.3565,
+    "city": "Vienna",
+    "type": "cafe",
+    "area": "Mariahilf",
+    "indoor": true,
+    "family_friendly": false,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "coffee",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "cafe",
+      "historic",
+      "coffee",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Demel",
+    "description": "Historic imperial confectionery known for classic Viennese desserts and refined café atmosphere.",
+    "lat": 48.2087,
+    "lon": 16.3667,
+    "city": "Vienna",
+    "type": "dessert",
+    "area": "Innere Stadt",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 9,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "dessert",
+      "coffee",
+      "rainy_day",
+      "culture"
+    ],
+    "tags": [
+      "dessert",
+      "cafe",
+      "historic",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Jonas Reindl Coffee Roasters",
+    "description": "Modern specialty coffee roaster with several central locations and reliable coffee quality.",
+    "lat": 48.216,
+    "lon": 16.3595,
+    "city": "Vienna",
+    "type": "cafe",
+    "area": "Alsergrund",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.75,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "coffee",
+      "break",
+      "rainy_day",
+      "slow_travel"
+    ],
+    "tags": [
+      "cafe",
+      "coffee",
+      "specialty",
+      "indoor"
+    ]
+  },
+  {
+    "name": "GOTA Coffee Experts",
+    "description": "Highly regarded specialty coffee shop known for expert coffee preparation.",
+    "lat": 48.192,
+    "lon": 16.3294,
+    "city": "Vienna",
+    "type": "cafe",
+    "area": "Rudolfsheim-Fünfhaus",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 0.75,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "coffee",
+      "break",
+      "rainy_day"
+    ],
+    "tags": [
+      "cafe",
+      "coffee",
+      "specialty",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Joseph Brot",
+    "description": "Popular bakery chain with traditional Austrian-style bread, pastries, coffee, and breakfast options.",
+    "lat": 48.2097,
+    "lon": 16.3682,
+    "city": "Vienna",
+    "type": "bakery",
+    "area": "Innere Stadt",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.75,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "breakfast",
+      "coffee",
+      "rainy_day",
+      "food"
+    ],
+    "tags": [
+      "bakery",
+      "bread",
+      "pastry",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Öfferl",
+    "description": "Craft bakery known for sourdough bread, focaccia, croissants, and modern bakery atmosphere.",
+    "lat": 48.208,
+    "lon": 16.3758,
+    "city": "Vienna",
+    "type": "bakery",
+    "area": "Innere Stadt",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.75,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "breakfast",
+      "pastry",
+      "rainy_day",
+      "food"
+    ],
+    "tags": [
+      "bakery",
+      "bread",
+      "croissant",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Gerstner K.u.K Hofzuckerbäcker",
+    "description": "Historic royal confectionery near the opera with classic Viennese cakes and elegant interiors.",
+    "lat": 48.2026,
+    "lon": 16.37,
+    "city": "Vienna",
+    "type": "dessert",
+    "area": "Innere Stadt",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "dessert",
+      "coffee",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "dessert",
+      "cafe",
+      "historic",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Vollpension",
+    "description": "Home-style café known for cakes baked by seniors and warm, intergenerational atmosphere.",
+    "lat": 48.1982,
+    "lon": 16.3651,
+    "city": "Vienna",
+    "type": "dessert",
+    "area": "Wieden",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "low",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "dessert",
+      "families",
+      "rainy_day",
+      "slow_travel"
+    ],
+    "tags": [
+      "dessert",
+      "cafe",
+      "homestyle",
+      "indoor"
+    ]
+  }
+]

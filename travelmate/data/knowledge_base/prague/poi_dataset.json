@@ -1,0 +1,1469 @@
+[
+  {
+    "name": "Prague Zoo",
+    "description": "One of the best zoos in Europe, very spacious and great for children",
+    "lat": 50.1169,
+    "lon": 14.4114,
+    "city": "Prague",
+    "type": "zoo",
+    "area": "Troja",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 3,
+    "budget_level": "medium",
+    "priority_score": 9,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "kids",
+      "slow_travel"
+    ],
+    "tags": [
+      "animals",
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "National Museum",
+    "description": "Large historical museum with exhibitions suitable for families",
+    "lat": 50.079,
+    "lon": 14.4308,
+    "city": "Prague",
+    "type": "museum",
+    "area": "New Town",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "winter",
+      "autumn",
+      "spring"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "culture",
+      "history"
+    ],
+    "tags": [
+      "history",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Petrin Park",
+    "description": "Large green park with playgrounds and walking paths",
+    "lat": 50.0838,
+    "lon": 14.3955,
+    "city": "Prague",
+    "type": "park",
+    "area": "Petrin Hill",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "low",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "slow_travel",
+      "walks"
+    ],
+    "tags": [
+      "park",
+      "walk",
+      "kids"
+    ]
+  },
+  {
+    "name": "Old Town Square",
+    "description": "Historic square with street performances and open space",
+    "lat": 50.087,
+    "lon": 14.4213,
+    "city": "Prague",
+    "type": "square",
+    "area": "Old Town",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "free",
+    "priority_score": 10,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "history",
+      "walks",
+      "families"
+    ],
+    "tags": [
+      "historic",
+      "walk"
+    ]
+  },
+  {
+    "name": "Charles Bridge",
+    "description": "Famous bridge with street artists and scenic views",
+    "lat": 50.0865,
+    "lon": 14.4114,
+    "city": "Prague",
+    "type": "landmark",
+    "area": "Old Town",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1,
+    "budget_level": "free",
+    "priority_score": 10,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "walks",
+      "photography",
+      "history"
+    ],
+    "tags": [
+      "walk",
+      "landmark"
+    ]
+  },
+  {
+    "name": "Prague Castle",
+    "description": "Large castle complex with courtyards and historical buildings",
+    "lat": 50.0909,
+    "lon": 14.4005,
+    "city": "Prague",
+    "type": "landmark",
+    "area": "Castle District",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 10,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "history",
+      "culture",
+      "walks"
+    ],
+    "tags": [
+      "history",
+      "walk"
+    ]
+  },
+  {
+    "name": "Lego Museum Prague",
+    "description": "Museum with Lego exhibitions, very attractive for children",
+    "lat": 50.0847,
+    "lon": 14.4189,
+    "city": "Prague",
+    "type": "museum",
+    "area": "Old Town",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "kids"
+    ],
+    "tags": [
+      "kids",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Mirror Maze Petrin",
+    "description": "Fun mirror maze attraction for children",
+    "lat": 50.0837,
+    "lon": 14.3958,
+    "city": "Prague",
+    "type": "attraction",
+    "area": "Petrin Hill",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1,
+    "budget_level": "low",
+    "priority_score": 6,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "kids",
+      "families"
+    ],
+    "tags": [
+      "kids",
+      "fun"
+    ]
+  },
+  {
+    "name": "Letna Park",
+    "description": "Park with great city views and open space for kids",
+    "lat": 50.0963,
+    "lon": 14.424,
+    "city": "Prague",
+    "type": "park",
+    "area": "Letna",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "free",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "walks",
+      "families",
+      "slow_travel"
+    ],
+    "tags": [
+      "park",
+      "walk"
+    ]
+  },
+  {
+    "name": "Technical Museum",
+    "description": "Interactive museum with vehicles and technology exhibits",
+    "lat": 50.098,
+    "lon": 14.4228,
+    "city": "Prague",
+    "type": "museum",
+    "area": "Letna",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "education",
+      "kids"
+    ],
+    "tags": [
+      "interactive",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Vltava River Walk",
+    "description": "Relaxed walking path along the river",
+    "lat": 50.0812,
+    "lon": 14.414,
+    "city": "Prague",
+    "type": "walk",
+    "area": "City Center",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "free",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "slow_travel",
+      "walks",
+      "families"
+    ],
+    "tags": [
+      "walk",
+      "relax"
+    ]
+  },
+  {
+    "name": "Children's Island (Detsky Ostrov)",
+    "description": "Playground island dedicated to children",
+    "lat": 50.0758,
+    "lon": 14.4087,
+    "city": "Prague",
+    "type": "playground",
+    "area": "Smichov",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "free",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "kids",
+      "families"
+    ],
+    "tags": [
+      "kids",
+      "playground"
+    ]
+  },
+  {
+    "name": "Aquapalace Prague",
+    "description": "Large indoor water park suitable for families",
+    "lat": 50.031,
+    "lon": 14.5098,
+    "city": "Prague",
+    "type": "water park",
+    "area": "Outskirts",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 3,
+    "budget_level": "high",
+    "priority_score": 8,
+    "best_seasons": [
+      "winter",
+      "autumn"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "kids",
+      "rainy_day"
+    ],
+    "tags": [
+      "water",
+      "indoor",
+      "kids"
+    ]
+  },
+  {
+    "name": "Vysehrad Park",
+    "description": "Quiet park with historical views and open space",
+    "lat": 50.0642,
+    "lon": 14.4179,
+    "city": "Prague",
+    "type": "park",
+    "area": "Vysehrad",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "free",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "slow_travel",
+      "walks",
+      "history"
+    ],
+    "tags": [
+      "park",
+      "walk"
+    ]
+  },
+  {
+    "name": "Chocolate Museum",
+    "description": "Small museum with chocolate exhibits and tastings",
+    "lat": 50.0874,
+    "lon": 14.4218,
+    "city": "Prague",
+    "type": "museum",
+    "area": "Old Town",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 6,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "food",
+      "kids"
+    ],
+    "tags": [
+      "food",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Hamleys Toy Store",
+    "description": "Large interactive toy store with entertainment zones",
+    "lat": 50.0848,
+    "lon": 14.4235,
+    "city": "Prague",
+    "type": "store",
+    "area": "Old Town",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "free",
+    "priority_score": 6,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "kids"
+    ],
+    "tags": [
+      "kids",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Kampa Park",
+    "description": "Park near the river with sculptures and open space",
+    "lat": 50.086,
+    "lon": 14.4075,
+    "city": "Prague",
+    "type": "park",
+    "area": "Kampa",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "free",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "walks",
+      "slow_travel"
+    ],
+    "tags": [
+      "park",
+      "walk"
+    ]
+  },
+  {
+    "name": "Boat Ride on Vltava",
+    "description": "Relaxing boat ride with city views",
+    "lat": 50.0878,
+    "lon": 14.4139,
+    "city": "Prague",
+    "type": "activity",
+    "area": "River",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "relax",
+      "slow_travel",
+      "families"
+    ],
+    "tags": [
+      "relax",
+      "water"
+    ]
+  },
+  {
+    "name": "Jewish Quarter",
+    "description": "Historic district with synagogues, museums, and cultural heritage sites, especially suitable for adults interested in history and architecture",
+    "lat": 50.09,
+    "lon": 14.4187,
+    "city": "Prague",
+    "type": "historic district",
+    "area": "Josefov",
+    "indoor": false,
+    "family_friendly": false,
+    "stroller_friendly": false,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "culture",
+      "history",
+      "adult_travel"
+    ],
+    "tags": [
+      "history",
+      "culture",
+      "museum",
+      "walk",
+      "adults"
+    ]
+  },
+  {
+    "name": "Municipal House",
+    "description": "Art Nouveau cultural building with exhibitions, concerts, and historic interiors, ideal for culture-focused travelers",
+    "lat": 50.0871,
+    "lon": 14.4276,
+    "city": "Prague",
+    "type": "cultural site",
+    "area": "Old Town",
+    "indoor": true,
+    "family_friendly": false,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "winter",
+      "autumn",
+      "spring"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "culture",
+      "adult_travel",
+      "architecture"
+    ],
+    "tags": [
+      "culture",
+      "architecture",
+      "indoor",
+      "adults"
+    ]
+  },
+  {
+    "name": "Cafe Louvre",
+    "description": "Historic Prague cafe suitable for travelers interested in classic city atmosphere, desserts, and relaxed dining",
+    "lat": 50.0807,
+    "lon": 14.4149,
+    "city": "Prague",
+    "type": "restaurant",
+    "area": "New Town",
+    "indoor": true,
+    "family_friendly": false,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 6,
+    "best_seasons": [
+      "winter",
+      "autumn",
+      "spring"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "food",
+      "adult_travel",
+      "slow_travel"
+    ],
+    "tags": [
+      "restaurant",
+      "cafe",
+      "food",
+      "adults",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Letna Beer Garden",
+    "description": "Outdoor beer garden with panoramic city views and relaxed local atmosphere",
+    "lat": 50.0969,
+    "lon": 14.4239,
+    "city": "Prague",
+    "type": "restaurant",
+    "area": "Letna",
+    "indoor": false,
+    "family_friendly": false,
+    "stroller_friendly": false,
+    "duration_hours": 1.5,
+    "budget_level": "low",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "adult_travel",
+      "food",
+      "evening"
+    ],
+    "tags": [
+      "restaurant",
+      "outdoor",
+      "adults",
+      "views",
+      "evening"
+    ]
+  },
+  {
+    "name": "St. Vitus Cathedral",
+    "description": "Gothic cathedral inside Prague Castle complex, suitable for a short cultural stop during a castle district visit.",
+    "lat": 50.0909,
+    "lon": 14.401,
+    "city": "Prague",
+    "type": "cathedral",
+    "area": "Castle District",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 9,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "history",
+      "culture",
+      "architecture",
+      "rainy_day"
+    ],
+    "tags": [
+      "cathedral",
+      "gothic",
+      "historic",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Wallenstein Garden",
+    "description": "Baroque garden in Malá Strana with sculptures, greenery, and a calm atmosphere for slow walks.",
+    "lat": 50.091,
+    "lon": 14.4085,
+    "city": "Prague",
+    "type": "garden",
+    "area": "Malá Strana",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "free",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "slow_travel",
+      "walks"
+    ],
+    "tags": [
+      "garden",
+      "park",
+      "baroque",
+      "walk"
+    ]
+  },
+  {
+    "name": "Old Town Hall Tower",
+    "description": "Historic tower on Old Town Square with panoramic views over Prague rooftops.",
+    "lat": 50.087,
+    "lon": 14.4215,
+    "city": "Prague",
+    "type": "viewpoint",
+    "area": "Old Town",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "views",
+      "photography",
+      "history"
+    ],
+    "tags": [
+      "tower",
+      "viewpoint",
+      "historic",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Klementinum",
+    "description": "Historic baroque complex with library and astronomical tower, suitable for culture-focused travelers and rainy days.",
+    "lat": 50.086,
+    "lon": 14.416,
+    "city": "Prague",
+    "type": "historic complex",
+    "area": "Old Town",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 9,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "culture",
+      "history",
+      "rainy_day",
+      "adult_travel"
+    ],
+    "tags": [
+      "library",
+      "tower",
+      "historic",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Franz Kafka Head",
+    "description": "Moving kinetic sculpture by David Černý, good as a short modern-art stop in the city center.",
+    "lat": 50.0813,
+    "lon": 14.4203,
+    "city": "Prague",
+    "type": "art installation",
+    "area": "New Town",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.3,
+    "budget_level": "free",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "photography",
+      "short_stop"
+    ],
+    "tags": [
+      "modern_art",
+      "sculpture",
+      "landmark",
+      "short_stop"
+    ]
+  },
+  {
+    "name": "Veletržní Palace",
+    "description": "National Gallery branch with Czech and European modern art in a functionalist building.",
+    "lat": 50.1038,
+    "lon": 14.4314,
+    "city": "Prague",
+    "type": "museum",
+    "area": "Holešovice",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "museum",
+      "modern_art",
+      "indoor",
+      "gallery"
+    ]
+  },
+  {
+    "name": "Convent of St. Agnes",
+    "description": "Atmospheric medieval monastery housing a National Gallery collection of Central European medieval art.",
+    "lat": 50.0922,
+    "lon": 14.4236,
+    "city": "Prague",
+    "type": "museum",
+    "area": "Old Town",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "history",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "museum",
+      "medieval",
+      "indoor",
+      "quiet"
+    ]
+  },
+  {
+    "name": "Karel Zeman Museum",
+    "description": "Interactive museum about film tricks and special effects, fun for both children and adults.",
+    "lat": 50.087,
+    "lon": 14.4065,
+    "city": "Prague",
+    "type": "museum",
+    "area": "Malá Strana",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "kids",
+      "rainy_day",
+      "interactive"
+    ],
+    "tags": [
+      "museum",
+      "film",
+      "kids",
+      "interactive",
+      "indoor"
+    ]
+  },
+  {
+    "name": "DOX Centre for Contemporary Art",
+    "description": "Progressive contemporary art center in Holešovice with exhibitions and a rooftop airship installation.",
+    "lat": 50.1087,
+    "lon": 14.448,
+    "city": "Prague",
+    "type": "museum",
+    "area": "Holešovice",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "modern_art",
+      "museum",
+      "indoor",
+      "gallery"
+    ]
+  },
+  {
+    "name": "Kunsthalle Praha",
+    "description": "Contemporary art gallery in a former power station near Prague Castle.",
+    "lat": 50.0913,
+    "lon": 14.4102,
+    "city": "Prague",
+    "type": "gallery",
+    "area": "Malá Strana",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "gallery",
+      "modern_art",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Museum Kampa",
+    "description": "Modern art museum on Kampa Island with temporary exhibitions and a small sculpture park.",
+    "lat": 50.085,
+    "lon": 14.407,
+    "city": "Prague",
+    "type": "museum",
+    "area": "Kampa",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "art",
+      "culture",
+      "rainy_day"
+    ],
+    "tags": [
+      "museum",
+      "modern_art",
+      "indoor",
+      "sculpture"
+    ]
+  },
+  {
+    "name": "Kasárna Karlín",
+    "description": "Community cultural space in former barracks with café, events, cinema screenings, and relaxed outdoor areas.",
+    "lat": 50.0928,
+    "lon": 14.4472,
+    "city": "Prague",
+    "type": "cultural space",
+    "area": "Karlín",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "low",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "events",
+      "relax",
+      "alternative"
+    ],
+    "tags": [
+      "culture",
+      "events",
+      "outdoor",
+      "alternative"
+    ]
+  },
+  {
+    "name": "Vnitroblock",
+    "description": "Creative multifunctional space in Holešovice with café, design shops, events, and local creative atmosphere.",
+    "lat": 50.1036,
+    "lon": 14.4472,
+    "city": "Prague",
+    "type": "cultural space",
+    "area": "Holešovice",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "low",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "coffee",
+      "culture",
+      "alternative",
+      "rainy_day"
+    ],
+    "tags": [
+      "cafe",
+      "design",
+      "indoor",
+      "alternative"
+    ]
+  },
+  {
+    "name": "Stromovka Park",
+    "description": "Large green park ideal for slow walks, family relaxation, picnics, and combining with Troja attractions.",
+    "lat": 50.1061,
+    "lon": 14.4265,
+    "city": "Prague",
+    "type": "park",
+    "area": "Holešovice",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "free",
+    "priority_score": 9,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "picnic",
+      "slow_travel",
+      "walks"
+    ],
+    "tags": [
+      "park",
+      "nature",
+      "family",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Troja Chateau",
+    "description": "Baroque palace with formal gardens located near Prague Zoo and the botanical garden.",
+    "lat": 50.116,
+    "lon": 14.4102,
+    "city": "Prague",
+    "type": "palace",
+    "area": "Troja",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "history",
+      "gardens",
+      "families"
+    ],
+    "tags": [
+      "palace",
+      "garden",
+      "historic",
+      "troja"
+    ]
+  },
+  {
+    "name": "Prague Botanical Garden",
+    "description": "Botanical garden with vineyards, tropical plants, and outdoor walking areas near Troja.",
+    "lat": 50.1183,
+    "lon": 14.404,
+    "city": "Prague",
+    "type": "botanical garden",
+    "area": "Troja",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 2,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "families",
+      "nature",
+      "walks"
+    ],
+    "tags": [
+      "garden",
+      "nature",
+      "outdoor",
+      "plants"
+    ]
+  },
+  {
+    "name": "Riegrovy Sady",
+    "description": "Popular Vinohrady park with sunset views over Prague Castle and relaxed local atmosphere.",
+    "lat": 50.0789,
+    "lon": 14.4415,
+    "city": "Prague",
+    "type": "park",
+    "area": "Vinohrady",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "free",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "sunset",
+      "walks",
+      "relax",
+      "slow_travel"
+    ],
+    "tags": [
+      "park",
+      "viewpoint",
+      "sunset",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Havlíčkovy Sady (Grébovka)",
+    "description": "Romantic park with vineyards, grotto, café, and panoramic terraces.",
+    "lat": 50.0712,
+    "lon": 14.4468,
+    "city": "Prague",
+    "type": "park",
+    "area": "Vršovice",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": false,
+    "duration_hours": 1.5,
+    "budget_level": "free",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "walks",
+      "photography",
+      "slow_travel"
+    ],
+    "tags": [
+      "park",
+      "vineyard",
+      "viewpoint",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Farmers Market Náplavka",
+    "description": "Saturday farmers market on the Vltava embankment with local food, produce, and street-food stalls.",
+    "lat": 50.0716,
+    "lon": 14.4142,
+    "city": "Prague",
+    "type": "market",
+    "area": "Náplavka",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "low",
+    "priority_score": 8,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "food",
+      "families",
+      "local_life",
+      "morning"
+    ],
+    "tags": [
+      "market",
+      "food",
+      "local",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Farmers Market Jiřího z Poděbrad",
+    "description": "Neighborhood farmers market with local products, produce, crafts, and relaxed Vinohrady atmosphere.",
+    "lat": 50.0777,
+    "lon": 14.4497,
+    "city": "Prague",
+    "type": "market",
+    "area": "Vinohrady",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "low",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "food",
+      "local_life",
+      "families"
+    ],
+    "tags": [
+      "market",
+      "food",
+      "local",
+      "outdoor"
+    ]
+  },
+  {
+    "name": "Manifesto Market Anděl",
+    "description": "Stylish food court in Anděl with international food, drinks, and casual events.",
+    "lat": 50.0709,
+    "lon": 14.4038,
+    "city": "Prague",
+    "type": "food court",
+    "area": "Anděl",
+    "indoor": false,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "avoid_in_rain": true,
+    "suitable_for": [
+      "food",
+      "families",
+      "evening",
+      "casual"
+    ],
+    "tags": [
+      "food",
+      "food_court",
+      "outdoor",
+      "casual"
+    ]
+  },
+  {
+    "name": "The Miners Coffee",
+    "description": "Specialty coffee chain with strong local presence, useful for coffee breaks during city walks.",
+    "lat": 50.0786,
+    "lon": 14.449,
+    "city": "Prague",
+    "type": "cafe",
+    "area": "Vinohrady",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.75,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "coffee",
+      "break",
+      "rainy_day",
+      "slow_travel"
+    ],
+    "tags": [
+      "cafe",
+      "coffee",
+      "indoor",
+      "break"
+    ]
+  },
+  {
+    "name": "Cafe Letka",
+    "description": "Atmospheric Letná café with breakfast, desserts, coffee, and a cozy interior.",
+    "lat": 50.0998,
+    "lon": 14.4236,
+    "city": "Prague",
+    "type": "cafe",
+    "area": "Letná",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 7,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "coffee",
+      "breakfast",
+      "rainy_day",
+      "slow_travel"
+    ],
+    "tags": [
+      "cafe",
+      "coffee",
+      "breakfast",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Café Savoy",
+    "description": "Classic historic café with elegant interior, desserts, breakfast, and relaxed dining.",
+    "lat": 50.0796,
+    "lon": 14.4073,
+    "city": "Prague",
+    "type": "cafe",
+    "area": "Malá Strana",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1.5,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "food",
+      "coffee",
+      "dessert",
+      "rainy_day"
+    ],
+    "tags": [
+      "cafe",
+      "dessert",
+      "historic",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Eska Bakery",
+    "description": "Spacious Karlín bakery and café with breakfast, bread, and farm-style products.",
+    "lat": 50.0923,
+    "lon": 14.45,
+    "city": "Prague",
+    "type": "bakery",
+    "area": "Karlín",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 1,
+    "budget_level": "medium",
+    "priority_score": 8,
+    "best_seasons": [
+      "all"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "breakfast",
+      "coffee",
+      "food",
+      "rainy_day"
+    ],
+    "tags": [
+      "bakery",
+      "breakfast",
+      "coffee",
+      "indoor"
+    ]
+  },
+  {
+    "name": "Angelato",
+    "description": "Popular Prague gelato spot with classic and seasonal flavors, good for a short family treat.",
+    "lat": 50.0812,
+    "lon": 14.4205,
+    "city": "Prague",
+    "type": "dessert",
+    "area": "New Town",
+    "indoor": true,
+    "family_friendly": true,
+    "stroller_friendly": true,
+    "duration_hours": 0.5,
+    "budget_level": "low",
+    "priority_score": 7,
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "avoid_in_rain": false,
+    "suitable_for": [
+      "families",
+      "kids",
+      "dessert",
+      "short_stop"
+    ],
+    "tags": [
+      "dessert",
+      "ice_cream",
+      "kids",
+      "indoor"
+    ]
+  }
+]
