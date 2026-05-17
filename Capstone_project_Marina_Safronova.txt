@@ -1,4 +1,4 @@
 Student name: Marina Safronova
 email: marina_safronova@epam.com
 git: https://github.com/safronovamy/genai-capstone
-video: https://youtu.be/q9CJzIz-S7c
+video: https://youtu.be/0c6UdDLtd54

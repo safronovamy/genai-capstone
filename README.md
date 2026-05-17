@@ -6,7 +6,7 @@
 - **Executive Summary** — `Executive_Summary.md`
 - **Self-Review** — `Self_Review.md`
 - **Test Suite** — `travelmate/tests`
-- **Video Demo** — https://youtu.be/q9CJzIz-S7c
+- **Video Demo** — https://youtu.be/0c6UdDLtd54
 - **Application Entry Point** — `travelmate/app/streamlit_app.py`
 - **Requirements File** — `requirements.txt`
 - **Environment Example** — `.env.example`
@@ -490,7 +490,7 @@ Included deliverables:
 
 Video link:
 
-https://youtu.be/q9CJzIz-S7c
+https://youtu.be/0c6UdDLtd54
 
 ---
 
