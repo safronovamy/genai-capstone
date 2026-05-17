@@ -2,9 +2,9 @@
 
 ## Capstone Deliverables
 
-- **Architecture Blueprint** — `docs/Architecture_Blueprint.md`
-- **Executive Summary** — `docs/Executive_Summary.md`
-- **Self-Review** — `docs/Self_Review.md`
+- **Architecture Blueprint** — `Architecture_Blueprint.md`
+- **Executive Summary** — `Executive_Summary.md`
+- **Self-Review** — `Self_Review.md`
 - **Test Suite** — `travelmate/tests`
 - **Video Demo** — https://youtu.be/q9CJzIz-S7c
 - **Application Entry Point** — `travelmate/app/streamlit_app.py`
@@ -120,8 +120,8 @@ Final Response + Sources + Warnings
 
 For detailed architecture decisions and rationale, see:
 
-- `docs/Architecture_Blueprint.md`
-- `docs/Self_Review.md`
+- `Architecture_Blueprint.md`
+- `Self_Review.md`
 
 ---
 
@@ -419,8 +419,8 @@ The system rejects unsafe override attempts and remains grounded in retrieved so
 
 Detailed rationale is described in:
 
-- `docs/Architecture_Blueprint.md`
-- `docs/Self_Review.md`
+- `Architecture_Blueprint.md`
+- `Self_Review.md`
 
 ---
 
